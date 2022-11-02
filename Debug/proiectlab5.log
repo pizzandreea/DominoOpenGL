@@ -1,0 +1,15 @@
+﻿  D:freeglut.dll
+  D:glew32.dll
+  D:glew32s.dll
+  3 File(s) copied
+  D:glfw3.dll
+  D:glfw3dll.dll
+  D:glfw3_mt.dll
+  3 File(s) copied
+  D:SOIL.dll
+  1 File(s) copied
+  domino.cpp
+D:\acte_facultate\an3\sem1\grafica\proiect lab5\proiectlab5\proiectlab5\domino.cpp(30,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  proiectlab5.vcxproj -> D:\acte_facultate\an3\sem1\grafica\proiect lab5\proiectlab5\Debug\proiectlab5.exe
+  0 File(s) copied
+  0 File(s) copied
